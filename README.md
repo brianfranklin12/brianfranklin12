@@ -20,7 +20,7 @@ Full Stack Web Developer with experience in Ruby on Rails and JavaScript! Custom
 - Used CSS Grid and Flexbox to make the application responsive
 
 **NightCap** [Repo](https://github.com/brianfranklin12/night_cap) <br><br>
-🍸 Full stack Ruby on Rails application to store cocktail recipes and view other users’ unique creations
+🍸 Full stack Ruby on Rails application to store cocktail recipes and view other users’ unique creations 🍸
 - Created full stack application using Ruby on Rails
 - Used Tailwind CSS framework to help implement a modern design system for the front end
 - Utilized OAuth and session-based authentication

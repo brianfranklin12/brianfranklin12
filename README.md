@@ -4,7 +4,7 @@ Full Stack Web Developer with experience in Ruby on Rails and JavaScript! Custom
 
 ## Projects
 ---
-**Spotify Music Game** Demo | [Repo](https://github.com/brianfranklin12/spotify_music_game)<br><br>
+**Spotify Music Game** [Demo](https://spotify-music-game.netlify.app/) | [Repo](https://github.com/brianfranklin12/spotify_music_game)<br><br>
 🎵 A fun, interactive application that allows a user to test their knowledge of songs in their own playlists. 🎵
 - Utilized the Spotify API to authenticate users / gain access tokens / load playlist and track information
 - Used modern React techniques, such as functional components and hooks for clean and concise code

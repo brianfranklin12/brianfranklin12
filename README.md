@@ -1,6 +1,6 @@
 ##  👋 Hi, I'm Brian 👋
 ---
-Full Stack Web Developer with experience in Ruby on Rails and JavaScript! Customer service background with a history of management roles in retail and food service industries. Personable, eager to learn, and and excited for new challenges.
+Full Stack Web Developer with experience in Ruby on Rails and JavaScript! Customer service background with a history of management roles in retail and food service industries. Personable, eager to learn, and excited for new challenges.
 
 ## Projects
 ---
